@@ -25,7 +25,6 @@ def processRecords(rdd):
 	if not rdd.isEmpty():
 		spark = getSparkSessionInstance(rdd.context.getConf())
 		df = spark.read.json(rdd)
-		df.show()
 		now = datetime.datetime.now()
 		year = now.strftime("%Y")
 		month = now.strftime("%m")
