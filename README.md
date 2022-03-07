@@ -58,18 +58,14 @@ The Code in Action videos for this book can be viewed at https://bit.ly/3HM9dpj.
 ### Related products <Other books you may enjoy>
 * Serverless Analytics with Amazon Athena [[Packt]](https://www.packtpub.com/product/serverless-analytics-with-amazon-athena/9781800562349) [[Amazon]](https://www.amazon.com/dp//B09CHK2HVF)
 
-* Machine Learning with Amazon SageMaker Cookbook [[Packt]](https://www.packtpub.com/product/machine-learning-with-amazon-sagemaker-cookbook/9781800567030) [[Amazon]](https://www.amazon.com/dp/1800567030)
+* Data Engineering with AWS [[Packt]](https://www.packtpub.com/product/data-engineering-with-aws/9781800560413) [[Amazon]](https://www.amazon.com/dp/B09C2MN5DV)
 
-## Get to Know the Authors
+## Get to Know the Author
 
-**Michael Hsieh**
-is a senior AI/machine learning (ML) solutions architect at Amazon Web Services. 
-He creates and evangelizes for ML solutions centered around Amazon SageMaker. 
-He also works with enterprise customers to advance their ML journeys.
-Prior to working at AWS, Michael was an advanced analytic consultant creating ML solutions and enterprise-level ML strategies at Slalom Consulting in Philadelphia, PA. 
-Prior to consulting, he was a data scientist at the University of Pennsylvania Health System, focusing on personalized medicine and ML research.
-Michael has two master's degrees, one in applied physics and one in robotics.
-Originally from Taipei, Taiwan, Michael currently lives in Sammamish, WA, but still roots for the Philadelphia Eagles.
+**Sakti Mishra**
+is an engineer, architect, author, and technology leader with over 16 years of experience in the IT industry. He is currently working as a senior data lab architect at Amazon Web Services (AWS).
+He is passionate about technologies and has expertise in big data, analytics, machine learning, artificial intelligence, graph networks, web/mobile applications, and cloud technologies such as AWS and Google Cloud Platform.
+Sakti has a bachelor’s degree in engineering and a master’s degree in business administration. He holds several certifications in Hadoop, Spark, AWS, and Google Cloud. He is also an author of multiple technology blogs, workshops, white papers and is a public speaker who represents AWS in various domains and events.
 
 
 
