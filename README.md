@@ -53,6 +53,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801071079_ColorImages.pdf).
 
 ## Code in Action
+
 The Code in Action videos for this book can be viewed at https://bit.ly/3HM9dpj.
 
 ### Related products <Other books you may enjoy>
