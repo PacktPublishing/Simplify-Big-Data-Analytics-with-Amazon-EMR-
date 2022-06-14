@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B17384?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # 	Simplify Big Data Analytics with Amazon EMR
 
 <a href="https://www.packtpub.com/product/simplify-big-data-analytics-with-amazon-emr/9781801071079?utm_source=github&utm_medium=repository&utm_campaign=9781801071079"><img src="https://static.packt-cdn.com/products/9781801071079/cover/smaller" alt="Simplify Big Data Analytics with Amazon EMR" height="256px" align="right"></a>
